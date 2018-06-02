@@ -40,13 +40,13 @@ figcaption {
 
 /* ID selector (apply to one unique element per page) */
 
-#logo { /*applied to id=logo */
+#logo { /* applied to id=logo */
 	background: aqua;
 }
 
-/*Descdendant Selector */
+/* Descdendant Selector */
 
-#logo h1 { /*selects <h1> inside id="logo" */
+#logo h1 { /* selects <h1> inside id="logo" */
 	font-family: 'Clicker Script', cursive;
 }
 
